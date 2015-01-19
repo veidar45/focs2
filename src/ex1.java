@@ -1,5 +1,7 @@
 import java.util.LinkedList;
-
+/*
+ * That's just a test javadoc for the git branch.
+ */
 public class ex1 {
 	public static boolean equalList(LinkedList<Integer> l1,
 			LinkedList<Integer> l2) {
